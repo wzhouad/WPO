@@ -45,7 +45,7 @@ After conducting experiments, we discovered an enhanced method for constructing 
 The following table presents our new v2 model:
 | Checkpoint | Alpaca Eval LC | Alpaca Eval WR |
 |---|---|---|
-|[Llama3-Instruct-8B-WPO-HB-v2](https://huggingface.co/wzhouad/Llama3-Instruct-8B-WPO-HB-v2)|53.5|57.3|
+|[Llama3-Instruct-8B-WPO-HB-v2](https://huggingface.co/wzhouad/Llama3-Instruct-8B-WPO-HB-v2)|53.4|57.3|
 
 ## Citation
 
