@@ -13,5 +13,5 @@ The table below presents our trained models in the paper along with their evalua
 |---|---|---|
 |[zephyr-7B-WPO-FP](https://huggingface.co/wzhouad/zephyr-7B-WPO-FP)|25.4|21.0|
 |[zephyr-7B-WPO-HB](https://huggingface.co/wzhouad/zephyr-7B-WPO-HB)|42.9|49.8|
-|[Llama3-Instruct-8B-WPO-FP](https://huggingface.co/wzhouad/Llama3-Instruct-8B-WPO-FP)|31.5|33.8|
+|[Llama3-Instruct-8B-WPO-FP](https://huggingface.co/wzhouad/Llama3-Instruct-8B-WPO-FP)|33.8|31.5|
 |[Llama3-Instruct-8B-WPO-HB](https://huggingface.co/wzhouad/Llama3-Instruct-8B-WPO-HB)|48.3|52.3|
