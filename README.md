@@ -41,6 +41,14 @@ The table below presents our trained models in the paper along with their evalua
 |[Llama3-Instruct-8B-WPO-HB](https://huggingface.co/wzhouad/Llama3-Instruct-8B-WPO-HB)|48.3|52.3|
 |[Llama3-Instruct-8B-WPO-HB-v2](https://huggingface.co/wzhouad/Llama3-Instruct-8B-WPO-HB-v2)|53.4|57.3|
 
+### Gemma models
+The table below shows our finetuned gemma-2-it models. When constructing the preference dataset for Gemma models in the hybrid RL setting, we switch to [ArmoRM](https://huggingface.co/RLHFlow/ArmoRM-Llama3-8B-v0.1) for scoring, and choose the outputs with maximum/minimum scores to form a preference pair.
+
+| Checkpoint | Alpaca Eval LC | Alpaca Eval WR |
+|---|---|---|
+|[gemma-2-9b-it-WPO-FP](https://huggingface.co/wzhouad/gemma-2-9b-it-WPO-FP)|56.0|47.2|
+|[gemma-2-9b-it-WPO-HB](https://huggingface.co/wzhouad/gemma-2-9b-it-WPO-HB)|76.7|77.8|
+
 ## Citation
 
 Please kindly cite the following paper if you use our method or models in your work:
